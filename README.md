@@ -1,9 +1,12 @@
-# infografiaMADIC ✨💻
-Infografía interactiva para el libro del 10 aniversario de MADIC que reporta los los resultados la investigación *"Alquimia, tecnología y vida cotidiana: Museografía interactiva para la Casa Estudio Leonora Carrington"*
+# Interactive infographic ✨💻
 
-## Tecnologías usadas:
-HTML
-CSS
+This interactive infographic was made to share all the breakthoughts and achievements accomplished during the realization of the thesis “Alchemy, technology and quotidian life: Interactive museography for the Leonora Carrington House Studio” that was a extensive research of Leonora’s Carrington life beyond her artist facet.
 
-__Se tomaron en cuenta aspectos de usabilidad para lectores de pantalla__
+# Tecnologías usadas:
+HTML <br/>
+CSS  <br/> <br/>
+__Usability aspects for screen readers were taken into account__
+ <br/> <br/>
+Here you can see the deployed site:  <br/>
+https://viaje-interdiscipinario-hacia-leonora-carrington.glitch.me/
 
